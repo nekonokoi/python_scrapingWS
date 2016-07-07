@@ -13,6 +13,6 @@ conda install pip
 pip freeze
 
 # Installing the packages
-conda install bs4
 conda install Scrapy
 conda install feedparser
+pip install bs4
